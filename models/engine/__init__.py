@@ -2,4 +2,3 @@
 '''
     Package initializer
 '''
-
